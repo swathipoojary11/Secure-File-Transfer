@@ -1,0 +1,41 @@
+# Node.js & Next.js
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+build/
+dist/
+
+# Java & Maven
+target/
+backend/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Storage & Uploaded Files
+storage/
+temp/
+backend/storage/
+backend/temp/
+*.tmp
+*.enc
+
+# Local Environment Variables
+.env.local
+.env*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
