@@ -186,8 +186,8 @@ mvn compile "-Dexec.mainClass=com.dcn.securefiletransfer.network.test.Academic15
 For field deployment between two separate student laptops across local Wi-Fi or a Mobile Hotspot, see the complete guide:
 👉 **[Two-Laptop Wi-Fi Deployment Guide](file:///d:/DCN/secure-file-transfer/documentation/TWO_LAPTOP_DEPLOYMENT_GUIDE.md)**
 
-For viva voce examination preparation:
+
 👉 **[Top 25 DCN Viva Questions & Answers](file:///d:/DCN/secure-file-transfer/documentation/VIVA_QUESTIONS_AND_ANSWERS.md)**
 
-For the full academic report with DFDs and UML diagrams:
+ UML diagrams:
 👉 **[Academic Project Report](file:///d:/DCN/secure-file-transfer/documentation/PROJECT_REPORT.md)**
